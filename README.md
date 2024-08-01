@@ -6,4 +6,7 @@ This is the repository for my bachelors thesis
 
 at the Data and Web Science Group at Prof. Dr. Christian Bizer
 
-The repository includes all necesarry code to run my experiment and my results.
+The repository includes:
+- code necesarry to run the experiment
+- experimental results
+- pdf of the thesis
